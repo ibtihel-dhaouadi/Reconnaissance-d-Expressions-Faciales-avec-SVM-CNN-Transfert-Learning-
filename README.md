@@ -3,11 +3,11 @@
 ###
 
 
-<h3 align="left">🎯 Contexte du Projet</h3>
+<h3 align="left">🎯 Contexte du Projet  <a href="https://www.kaggle.com/code/dhaouadiibtihel98/raf-db-facial-expression-recognition-svm-cnn-tl">[Lien vers le notebook]</a></h3>
 
 ###
 
-<p align="left">Le RAF-DB (Real-World Affective Face Database) est un dataset regroupant des images de visages humains étiquetées selon sept émotions :</p>
+<p align="left">Le <a href="https://www.kaggle.com/datasets/shuvoalok/raf-db-dataset">RAF-DB (Real-World Affective Face Database) </a> est un dataset regroupant des images de visages humains étiquetées selon sept émotions :</p>
 
 ###
 
